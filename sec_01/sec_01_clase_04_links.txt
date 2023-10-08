@@ -1,0 +1,2 @@
+https://www.django-rest-framework.org/api-guide/authentication/
+https://www.utilities-online.info/base64
